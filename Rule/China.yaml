@@ -563,6 +563,9 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.com
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
+  - DOMAIN-SUFFIX,wps.cn
+  - DOMAIN-SUFFIX,kwps.cn
+  - DOMAIN-SUFFIX,kingsoft.net
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
